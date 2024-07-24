@@ -34,6 +34,15 @@ The main purpose of this project is to illustrate how to use the `useRef` hook t
 
    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+Before click
+
+<img width="452" alt="Captura de pantalla 2024-07-23 a la(s) 21 04 56" src="https://github.com/user-attachments/assets/8f093a27-f28e-43bb-b552-f83253670512">
+
+After click
+
+<img width="486" alt="Captura de pantalla 2024-07-23 a la(s) 21 05 01" src="https://github.com/user-attachments/assets/72cfefd3-cb1a-4507-b40d-868f663b574e">
+
+
 
 ## Dependencies
 
